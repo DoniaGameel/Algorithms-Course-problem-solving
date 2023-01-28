@@ -66,7 +66,7 @@ The first line of the input contains N, the length of the bit strings and H, the
 
 **Output Format**
 
-print a list of all possible bit strings of length N each on a seperate line, every string should have H ones printed. the strings should be sorted lexicographically* *https://stackoverflow.com/questions/45950646/what-is-lexicographical-order/45950665
+print a list of all possible bit strings of length N each on a seperate line, every string should have H ones printed. the strings should be sorted lexicographically https://stackoverflow.com/questions/45950646/what-is-lexicographical-order/45950665
 
 **Sample Input 0**
 
