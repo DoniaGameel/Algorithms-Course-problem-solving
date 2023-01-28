@@ -536,7 +536,7 @@ The sum of values of the selected nodes.
 
 The selected nodes to maximize the sum are highlighted in the following figure:
 
-![My Image](Problem5.png)
+![My Image](Problem11.png)
 
 ## Problem #12 Gamer planning
 
