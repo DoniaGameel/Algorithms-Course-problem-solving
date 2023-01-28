@@ -9,7 +9,7 @@ Given M strings you are required to find the count of all strings of length N th
 The first line will contain M, N, and K in this exact order.
 The next M lines will contain a string each
 
-**Constraints*
+**Constraints**
 
 1 <= M <= 7
 
