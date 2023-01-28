@@ -362,7 +362,7 @@ L 2 5
 
 R 2 6
 
-**Sample Output 0*
+**Sample Output 0**
 
 419
 
@@ -675,7 +675,7 @@ one value containing the number of ways the player can move from the start cell 
 
 There is a jumping game in which the player should make multiple jumps to get the maximum total score. The grid of squares that the player can jump on is a 2-dimentional grid of size 2 * N. Each square has a score. The total player score is the sum of scores of all the squares he jumped on. Assume that the player can make any long jumps in any direction. The only constraint is that it is forbidden to jump on two consecutive squares either in the same row or in the same column. It is required to use dynamic programming (bottom up soltion) to calculate the maximum total score the player can get. Note: you may need to think of it top down first to get the botton up solution.
 
-**Input Format*
+**Input Format**
 
 The first line contains the integer N.
 
